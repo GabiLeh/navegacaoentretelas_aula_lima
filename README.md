@@ -71,7 +71,7 @@ body {
 }
 ```
 # Navegar de uma janela para outra através de um texto
-No seu html principal use:
+Crie um **novo** html e no seu html **principal** use:
 ```
 <body>
 <ul>
