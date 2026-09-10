@@ -22,7 +22,7 @@ Para colocar um ícone na página igual do google, pinterest etc é necessário 
 ```
 # Div class
 O div class é usado para separar e editar melhor no css, primeiro usamos ele no html e depois editamos no css. Nesse caso apenas usamos para deixar o texto centralizado na página<br>
-Exemplo:<br>
+## Exemplo:<br>
 HTML:
 ```
 <body>
