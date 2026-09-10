@@ -1,5 +1,5 @@
 # Navegação entre telas
-Foi proposto fazer uma aula sobre LIMA no SENAI/SESI, foi feito um site simples para que fosse possível ensinar a colocar um ícone na página, a usar div class, awesome font, background estático e a navegar para outra janela a partir de um texto.
+Propôs-se a fazer uma aula sobre LIMA no SENAI/SESI, assim foi criado um site simples para que fosse possível ensinar a colocar um ícone na página, a usar div class, awesome font, background estático e a navegar para outra janela a partir de um texto.
 # Ícone na página
 Para colocar um ícone na página igual do google, pinterest etc é necessário usar o seguinte cógido dentro do head, e dependendo do formato da foto o "type" muda.
 ## Ícone .ico(mais recomendado)
