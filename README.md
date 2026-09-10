@@ -81,3 +81,7 @@ Crie um **novo** html e no seu html **principal** use:
 </body>
 ```
 !!!É DE EXTREMA IMPORTANCIA QUE O NOME DO SITE ESTEJA EXATAMENTE IGUAL NO HREF!!!
+# Tecnologias Utilizadas
+* [VS Code](https://code.visualstudio.com/)
+* HTML
+* CSS
