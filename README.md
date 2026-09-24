@@ -85,3 +85,43 @@ Crie um **novo** html e no seu html **principal** use:
 * [VS Code](https://code.visualstudio.com/)
 * HTML
 * CSS
+* 
+<<<<<<< HEAD
+## CRITÉRIOS DE NOTA
+
+* Site bonito
+* Feito por conta própria
+* Sem I.A.
+* Ícone
+* Background com foto
+* Enviar corretamente no meu e-mail (com assunto)
+
+## NOTAS:
+Ana Beatriz:<br>
+Breno:<br>
+Bianca:<br>
+Davi:<br>
+Eduardo:<br>
+Geovanna:F<br>
+Giulia:<br>
+Giuseppe:F<br>
+Gustavo:<br>
+Heitor:<br>
+Helena:<br>
+Isabela:<br>
+Isabelle:<br>
+Leandro:<br>
+Letícia:<br>
+Marina:<br>
+Matheus:<br>
+Maycon:<br>
+Nicolas:<br>
+Otávio:<br>
+Pedro:<br>
+Renan:<br>
+Samyra:<br>
+Sara:<br>
+Sofia:<br>
+Tobias:<br>
+Victor:<br>
+Vitória:
