@@ -85,8 +85,7 @@ Crie um **novo** html e no seu html **principal** use:
 * [VS Code](https://code.visualstudio.com/)
 * HTML
 * CSS
-* 
-<<<<<<< HEAD
+
 ## CRITÉRIOS DE NOTA
 
 * Site bonito
@@ -102,9 +101,9 @@ Breno:<br>
 Bianca:<br>
 Davi:<br>
 Eduardo:<br>
-Geovanna:F<br>
+Geovanna:<br>
 Giulia:<br>
-Giuseppe:F<br>
+Giuseppe:<br>
 Gustavo:<br>
 Heitor:<br>
 Helena:<br>
